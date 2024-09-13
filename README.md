@@ -1,3 +1,5 @@
+
+
 # Self-Study Curriculum: Mastering Linux System Administration and DevOps Tools
 
 Welcome to your self-paced learning journey towards mastering Linux system administration and essential DevOps tools. This curriculum is divided into seven comprehensive phases, each focusing on key areas to build your skills progressively.
@@ -344,7 +346,3 @@ Welcome to your self-paced learning journey towards mastering Linux system admin
 
 - **Internal Links**:
   - Use `[Link Text](Page-Name)` to link between wiki pages.
-
----
-
-Feel free to copy and paste this Markdown content into your GitHub Wiki. The formatting should render beautifully, providing an aesthetically pleasing and well-organized structure for your self-study curriculum.
